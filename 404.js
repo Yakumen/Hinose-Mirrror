@@ -4,7 +4,7 @@ $(function(){
   $('.text').typed({
     strings: [
       "Tampaknya! Adek tersesat. <br /> ^1000" + 
-      "Biar om bantuinnya. <br /> ^1000" +
+      "Biar om bantuin ya. <br /> ^1000" +
       "Ikuti <a href='/'>jalan ini</a> dan Adek akan selamat."
     ],
     typeSpeed: 0,
