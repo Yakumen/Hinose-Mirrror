@@ -3,10 +3,10 @@
 $(function(){
   $('.text').typed({
     strings: [
-      "Duh! Kesel gw ama lu masa gini aja tersesat!! <br /> ^1000" + 
-      "Mau dibantuin gak? <br /> ^1000" +
-      "M-Mau gimana lagi, akan gw bantuin. <br /> ^1000" +
-      "Pencet <a href='/'>pulang ke rumah</a>,dan jangan sampai tersesat lagi!"
+      "Tampaknya! Adek tersesat. <br /> ^1000" + 
+      "Maaf. <br /> ^1000" +
+      "Biar om bantuinnya. <br /> ^1000" +
+      "Ikuti <a href='/'>jalan ini</a> dan Adek akan selamat."
     ],
     typeSpeed: 0,
     showCursor: false
